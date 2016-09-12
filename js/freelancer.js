@@ -53,3 +53,15 @@ document.body.addEventListener('touchstart', function () { });
     });
 
 })(jQuery); // End of use strict
+
+
+//auto fit for youku iframe
+window.onload = window.onresize = function () { resizeIframe();}
+
+var resizeIframe=function(){
+    var bodyw=document.body.clientWidth*0.65;
+    for(var ilength=0;ilength<=document.getElementsByTagName("iframe").length;ilength++) {
+        if(document.getElementsByTagName("iframe")[ilength])
+            document.getElementsByTagName("iframe")[ilength].height = bodyw*9/16;
+    }
+}
