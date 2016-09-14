@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8476175a-4388-4535-89b8-1c6ba7f7c9df" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/attachment/ami-wp.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/attachment/ami.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/attachment/its.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/attachment/models.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/ami-pub.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/ami-wp-pub.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/block.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/design-flow.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/eva-result.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/expert.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/fragile.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/noisy.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/timeout.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/ui-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/ui-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/ui-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/ui-4.jpg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-4/W-DK38469_tcm21-2230767.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-4/图片2.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-4/scenario.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/scenario.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-5/error.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-5/error.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-5/sus.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-5/sus.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-5/time.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-5/time.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-4/ami-pub.JPG" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/ami-pub.JPG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -49,8 +27,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18185">
-              <caret line="1295" column="58" selection-start-line="1295" selection-start-column="58" selection-end-line="1295" selection-end-column="58" />
+            <state relative-caret-position="52">
+              <caret line="1245" column="29" selection-start-line="1245" selection-start-column="29" selection-end-line="1245" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -328,7 +306,7 @@
       <workItem from="1473504508944" duration="6099000" />
       <workItem from="1473545352380" duration="1246000" />
       <workItem from="1473546617752" duration="36177000" />
-      <workItem from="1473670204654" duration="39682000" />
+      <workItem from="1473670204654" duration="40365000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1472388458938</created>
@@ -484,11 +462,18 @@
       <option name="project" value="LOCAL" />
       <updated>1473743276105</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="update for portfolio 4 and portfolio 5">
+      <created>1473813294905</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1473813294905</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="233539000" />
+    <option name="totallyTimeSpent" value="234222000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1924" height="1038" extended-state="0" />
@@ -556,7 +541,8 @@
     <MESSAGE value="update for video" />
     <MESSAGE value="update" />
     <MESSAGE value="update2" />
-    <option name="LAST_COMMIT_MESSAGE" value="update2" />
+    <MESSAGE value="update for portfolio 4 and portfolio 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="update for portfolio 4 and portfolio 5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -948,8 +934,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18185">
-          <caret line="1295" column="58" selection-start-line="1295" selection-start-column="58" selection-end-line="1295" selection-end-column="58" />
+        <state relative-caret-position="52">
+          <caret line="1245" column="29" selection-start-line="1245" selection-start-column="29" selection-end-line="1245" selection-end-column="29" />
           <folding />
         </state>
       </provider>
