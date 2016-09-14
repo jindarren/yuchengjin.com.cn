@@ -311,7 +311,7 @@
         <div class="container">
             <div class="modal-body">
                 <div class="row">
-                    <div class="col-md-10 col-md-push-1">
+                    <div class="col-md-8 col-md-push-2">
                         <h2 class="text-center">AdFlow</h2>
                         <hr class="star-primary">
                         <img src="img/portfolio/portfolio-1/paris-1.jpg" class="img-responsive img-centered" alt="">
@@ -579,7 +579,7 @@
             <div class="container">
                 <div class="modal-body">
                     <div class="row">
-                        <div class="col-md-10 col-md-push-1">
+                        <div class="col-md-8 col-md-push-2">
                             <h2 class="text-center">CircleBuy</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/portfolio-2/paris-2.jpg" class="img-responsive img-centered" alt="">
@@ -848,8 +848,8 @@
                                 </div>
 
 
-                                <div class="primary">
-                                    <h4 class="text-center">Design insight</h4>
+                                <div class="primary top-margin bottom-margin">
+                                    <h4 class="text-center">Design Insight</h4>
                                     <ol>
                                         <li>CircleBuy allows users to control the television by selecting videos to
                                             play, pause, rewind and fast-forward.
@@ -989,6 +989,9 @@
         </div>
     </div>
 </div>
+
+<!--===================================== Portfolio 3 ========================================-->
+
 </div>
 <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-content">
@@ -1013,6 +1016,8 @@
     </div>
 </div>
 
+<!--===================================== Portfolio 4 ========================================-->
+
 </div>
 <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-content">
@@ -1024,7 +1029,7 @@
         </div>
         <div class="container">
             <div class="row">
-                <div class="col-md-10 col-md-push-1">
+                <div class="col-md-8 col-md-push-2">
                     <h2 class="text-center">AugmentWarehouse</h2>
                     <hr class="star-primary">
                     <img src="img/portfolio/portfolio-4/warehouse.jpg" class="img-responsive img-centered"
@@ -1062,26 +1067,33 @@
                         <li>Direct influence on order accuracy and delivery time</li>
                     </ul>
 
-                    <p>This work aims to explore <span class="emphasize">appropriate adaptive rules </span>for order
-                        picking. The system
-                        enables users to interact in a multi-modal way; the combination of vocal and visual interaction
-                        has
-                        not been investigated so far. The level of multi-modality, i.e. emphasizing one of the two
-                        modalities, should <span class="emphasize">depend on the context of use</span>. By virtue of
-                        wearable devices and ambient intelligent environment, the user experience of picking task has
-                        been enhanced apparently with pre-designed adaptive features although with some shortcomings and
-                        limitations.
-                    </p>
+                    <div class="primary top-margin bottom-margin">
+                        <h3 class="text-center">Design Goal</h3>
+                        <p>This work aims to explore appropriate adaptive rules for order
+                            picking. The system should allow users to interact in a multi-modal way (vocal and visual interaction).
+                            By virtue of wearable devices and ambient intelligent environment, the user experience of picking task has
+                            been enhanced apparently with designed adaptive features.
+                        </p>
+                    </div>
+
+                    <figure class="top-margin bottom-margin">
+                        <img src="img/portfolio/portfolio-4/design-flow.jpg" class="img-responsive img-centered">
+                        <figcaption>Figure 2: Design flow of AugmentWarehouse</figcaption>
+                    </figure>
+
 
                     <div class="heading-block">
-                        <h3 class="text-center">PRELIMINARY DESIGN</h3>
+                        <h3 class="text-center">DESIGN</h3>
                     </div>
 
                     <h4>Scenario</h4>
 
+                    <p>My colleagues firstly interviewed several workers who work in a local warehouse with intelligent logistics system. After analyzing the feedback collected
+                        from interview we outline such a scenario.</p>
+
                     <figure class="top-margin bottom-margin">
                         <img src="img/portfolio/portfolio-4/scenario.jpg" class="img-responsive img-centered">
-                        <figcaption>Figure 2: The scenario of intelligent Logistics</figcaption>
+                        <figcaption>Figure 3: The scenario of intelligent logistics</figcaption>
                     </figure>
 
                     <p>Figure 2 shows logistics scenario: (1) RFID based Production with automatic material and
@@ -1093,12 +1105,181 @@
                         goods issue and palette aggregation with RFID hand reader.
                     </p>
 
+                    <h4>Adaptive rules</h4>
+
+                    <p>After interviewing the warehouse workers with our proposed adaptive rules, we picked the most <span class="emphasize">five popular rules</span>  for the
+                        prototypes.</p>
+
+                    <div class="row top-margin bottom-margin">
+                        <div class="col-md-3 col-xs-12">
+                            <img src="img/portfolio/portfolio-4/fragile.jpg" class="img-centered img-responsive">
+                        </div>
+                        <div class="col-md-9 col-xs-12">
+                            <p><span class="italic bold">Fragile object</span> - The rationale of this rule is that when the worker is about to pick
+                                a fragile object, the multi-modal UI should switch to only-vocal modality in order
+                                not to distract the user while picking the item.</p>
+                            <ul>
+                                <li><span class="italic bold">Event:</span> the right shelf has been reached</li>
+                                <li><span class="italic bold">Condition:</span> the worker has to pick a fragile item and the current modality
+                                    is not only-vocal</li>
+                                <li><span class="italic bold">Action:</span> switch from multi-modal to only-vocal modality</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="row top-margin bottom-margin">
+                        <div class="col-md-3 col-xs-12">
+                            <img src="img/portfolio/portfolio-4/timeout.jpg" class="img-centered img-responsive">
+                        </div>
+                        <div class="col-md-9 col-xs-12">
+                            <p><span class="italic bold">Picking timeout</span> - The user has just reached the destination shelf of the item but
+                                there is no confirmation of the actual item picking. The application then assumes
+                                that the worker is distracted/confused and/or not able to recognize the item to
+                                pick, then it provides again info on the item, both graphically and vocally.</p>
+                            <ul>
+                                <li><span class="italic bold">Event:</span> the user has reached the destination shelf</li>
+                                <li><span class="italic bold">Condition:</span> there has not been confirmation of the item picking and the
+                                    user interface is multi-modal</li>
+                                <li><span class="italic bold">Action:</span> the application visualizes an image representing the item to pick,
+                                    and simultaneously repeats the item name vocally</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="row top-margin bottom-margin">
+                        <div class="col-md-3 col-xs-12">
+                            <img src="img/portfolio/portfolio-4/expert.jpg" class="img-centered img-responsive">
+                        </div>
+                        <div class="col-md-9 col-xs-12">
+                            <p><span class="italic bold">Order visualization for experienced workers</span> - If the user has good knowledge of
+                                the warehouse shelf organisation, there is no need to show associated path information:
+                                the application adapts accordingly.</p>
+                            <ul>
+                                <li><span class="italic bold">Event:</span> beginning of a session with the HMD</li>
+                                <li><span class="italic bold">Condition:</span> the user is a warehouse expert</li>
+                                <li><span class="italic bold">Action:</span> the application hides the information about how to reach the different
+                                    shelves</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="row top-margin bottom-margin">
+                        <div class="col-md-3 col-xs-12">
+                            <img src="img/portfolio/portfolio-4/block.jpg" class="img-centered img-responsive">
+                        </div>
+                        <div class="col-md-9 col-xs-12">
+                            <p><span class="italic bold">Traffic Jam</span> - There are multiple workers who are expected to approach the same
+                                path at the same time: the application adapts in order to minimise the risk of
+                                workers to wait for other people before picking the items.</p>
+                            <ul>
+                                <li><span class="italic bold">Event:</span> order completed</li>
+                                <li><span class="italic bold">Condition:</span> multiple pickers are expected to approach the same path at
+                                    the same time and the path optimization preference is selected</li>
+                                <li><span class="italic bold">Action:</span> the application shows the blocked path suggesting a different
+                                    route</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="row top-margin bottom-margin">
+                        <div class="col-md-3 col-xs-12">
+                            <img src="img/portfolio/portfolio-4/noisy.jpg" class="img-centered img-responsive">
+                        </div>
+                        <div class="col-md-9 col-xs-12">
+                            <p><span class="italic bold">Noisy environment</span> - The environment gets noisy, then the multi-modal application
+                                switch to ‘only-graphical’ modality.</p>
+                            <ul>
+                                <li><span class="italic bold">Event:</span> the environment gets noisy</li>
+                                <li><span class="italic bold">Condition:</span> the application is using both the graphical and vocal modality
+                                    for interacting with the user</li>
+                                <li><span class="italic bold">Action:</span> the application switches to the only-graphical modality</li>
+                            </ul>
+                        </div>
+                    </div>
+
+
+                    <h4>UI Design</h4>
+
+                    <div class="row">
+                        <div class="col-md-6 col-xs-12">
+                            <img src="img/portfolio/portfolio-4/ui-1.jpg" class="img-responsive img-centered">
+                        </div>
+
+                        <div class="col-md-6 col-xs-12">
+                            <img src="img/portfolio/portfolio-4/ui-2.jpg" class="img-responsive img-centered">
+                        </div>
+                    </div>
+
+
+                    <div class="row">
+                        <div class="col-md-6 col-xs-12">
+                            <img src="img/portfolio/portfolio-4/ui-3.jpg" class="img-responsive img-centered">
+                        </div>
+
+                        <div class="col-md-6 col-xs-12">
+                            <img src="img/portfolio/portfolio-4/ui-4.jpg" class="img-responsive img-centered">
+                        </div>
+                    </div>
+
+                    <div class="heading-block">
+                        <h3 class="text-center">EVALUATION</h3>
+                    </div>
+
+                    <p>In order to reveal those adaptation rules which are generally perceived as the best and most reasonable ones, we conducted two rounds of user study
+                        for low-fidelity and high fidelity prototypes. Specifically, we assessed the user perceived quality of the adaptation rule in a 9-item questionnaire.
+                    </p>
+                    <ul>
+                        <li>User's awareness</li>
+                        <li>Appropriateness</li>
+                        <li>Comprehensibility</li>
+                        <li>Effectiveness of performance</li>
+                        <li>Effectiveness of user experience</li>
+                        <li>Error-prevention</li>
+                        <li>Continuity</li>
+                        <li>Intuitiveness</li>
+                        <li>General likeability</li>
+                    </ul>
+
+                    <figure class="top-margin bottom-margin">
+                        <img src="img/portfolio/portfolio-4/eva-result.JPG" class="img-responsive img-centered">
+                        <figcaption>Figure 4: Overall rating and the sub-scales Appropriateness, Error-Prevention and Intuitiveness</figcaption>
+                    </figure>
+
+                    <div class="heading-block">
+                        <h3 class="text-center">PUBLICATION</h3>
+                    </div>
+
+                    <div class="row">
+                        <p>For more details about this work, please check our paper ;)</p>
+                        <div class="col-md-6 col-xs-12">
+                            <a href="attachment/ami.pdf" target="_blank">
+                                <img src="img/portfolio/portfolio-4/ami-pub.JPG"
+                                     class="img-responsive img-centered">
+                            </a>
+                        </div>
+                        <div class="col-md-6 col-xs-12">
+                            <a href="attachment/ami-wp.pdf" target="_blank">
+                                <img src="img/portfolio/portfolio-4/ami-wp-pub.JPG"
+                                     class="img-responsive img-centered">
+                            </a>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="col-md-10 col-md-push-1 text-center top-margin">
+                    <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
+                        Close
+                    </button>
                 </div>
 
             </div>
         </div>
     </div>
 </div>
+
+
+<!--===================================== Portfolio 5 ========================================-->
 
 <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-content">
@@ -1112,7 +1293,7 @@
             <div class="row">
                 <div class="modal-body">
                     <div class="row">
-                        <div class="col-md-10 col-md-push-1">
+                        <div class="col-md-8 col-md-push-2">
                             <h2 class="text-center">TouchShadow</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/portfolio-5/touch-shadow.jpg" class="img-responsive img-centered"
@@ -1181,7 +1362,7 @@
                                 simulating building shadow.</p>
 
 
-                            <div class="primary">
+                            <div class="primary top-margin bottom-margin">
                                 <h4 class="text-center">Design Tasks</h4>
                                 <ul>
                                     <li>Design a user interface for setting a period of time for shadow simulation.</li>
@@ -1369,6 +1550,13 @@
                                 </ul>
                             </div>
                         </div>
+
+                        <div class="col-md-10 col-md-push-1 text-center top-margin">
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
+                                Close
+                            </button>
+                        </div>
+
                     </div>
                 </div>
             </div>

@@ -2,29 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8476175a-4388-4535-89b8-1c6ba7f7c9df" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/W-DK38469_tcm21-2230767.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/ar-warehouse.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/augmented-reality-warehouse.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/order-picking.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/scenario.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/warehouse.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/图片2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-5/error.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-5/gesture-new.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-5/gesture.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-5/gestures.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-5/marker.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-5/shadow.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-5/sus.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-5/table-system.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-5/tangible-new.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-5/tangible.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-5/time.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-5/touch-shadow.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-5/tradi-touch-new.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-5/tradi-touch.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/attachment/cv.ai" afterPath="$PROJECT_DIR$/attachment/cv.ai" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/attachment/cv.pdf" afterPath="$PROJECT_DIR$/attachment/cv.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/attachment/ami-wp.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/attachment/ami.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/attachment/its.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/attachment/models.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/ami-pub.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/ami-wp-pub.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/block.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/design-flow.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/eva-result.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/expert.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/fragile.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/noisy.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/timeout.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/ui-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/ui-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/ui-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/ui-4.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-4/W-DK38469_tcm21-2230767.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-4/图片2.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-4/scenario.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/scenario.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-5/error.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-5/error.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-5/sus.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-5/sus.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-5/time.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-5/time.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -49,11 +49,9 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="1031" column="37" selection-start-line="1031" selection-start-column="37" selection-end-line="1031" selection-end-column="37" />
-              <folding>
-                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
+            <state relative-caret-position="18185">
+              <caret line="1295" column="58" selection-start-line="1295" selection-start-column="58" selection-end-line="1295" selection-end-column="58" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -71,8 +69,8 @@
       <file leaf-file-name="freelancer.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/freelancer.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-963">
-              <caret line="619" column="0" selection-start-line="619" selection-start-column="0" selection-end-line="622" selection-end-column="1" />
+            <state relative-caret-position="409">
+              <caret line="668" column="10" selection-start-line="668" selection-start-column="10" selection-end-line="668" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -230,6 +228,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/zhong/Documents/jyc/portfolio/jindarren.github.io/css/freelancer.css" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -329,7 +328,7 @@
       <workItem from="1473504508944" duration="6099000" />
       <workItem from="1473545352380" duration="1246000" />
       <workItem from="1473546617752" duration="36177000" />
-      <workItem from="1473670204654" duration="25737000" />
+      <workItem from="1473670204654" duration="39682000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1472388458938</created>
@@ -478,11 +477,18 @@
       <option name="project" value="LOCAL" />
       <updated>1473715717019</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="update2">
+      <created>1473743276105</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1473743276105</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="219594000" />
+    <option name="totallyTimeSpent" value="233539000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1924" height="1038" extended-state="0" />
@@ -493,7 +499,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13116474" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20643729" sideWeight="0.5288562" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20643729" sideWeight="0.47114375" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20643729" sideWeight="0.47114375" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
@@ -549,7 +555,8 @@
     <MESSAGE value="videos" />
     <MESSAGE value="update for video" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="update2" />
+    <option name="LAST_COMMIT_MESSAGE" value="update2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -560,9 +567,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -594,9 +599,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -628,9 +631,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -662,9 +663,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -696,9 +695,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -730,9 +727,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -764,9 +759,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2489">
           <caret line="131" column="53" selection-start-line="131" selection-start-column="53" selection-end-line="131" selection-end-column="53" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -798,9 +791,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -832,9 +823,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -866,9 +855,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -900,9 +887,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -955,19 +940,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/freelancer.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-963">
-          <caret line="619" column="0" selection-start-line="619" selection-start-column="0" selection-end-line="622" selection-end-column="1" />
+        <state relative-caret-position="409">
+          <caret line="668" column="10" selection-start-line="668" selection-start-column="10" selection-end-line="668" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="1031" column="37" selection-start-line="1031" selection-start-column="37" selection-end-line="1031" selection-end-column="37" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state relative-caret-position="18185">
+          <caret line="1295" column="58" selection-start-line="1295" selection-start-column="58" selection-end-line="1295" selection-end-column="58" />
+          <folding />
         </state>
       </provider>
     </entry>
