@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8476175a-4388-4535-89b8-1c6ba7f7c9df" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-4/ami-pub.JPG" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/ami-pub.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-2/ar-ui.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-2/ar-ui.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="startbootstrap-freelancer-1.1.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -306,7 +305,7 @@
       <workItem from="1473504508944" duration="6099000" />
       <workItem from="1473545352380" duration="1246000" />
       <workItem from="1473546617752" duration="36177000" />
-      <workItem from="1473670204654" duration="40365000" />
+      <workItem from="1473670204654" duration="40982000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1472388458938</created>
@@ -469,11 +468,18 @@
       <option name="project" value="LOCAL" />
       <updated>1473813294905</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="update for portfolio 4 and portfolio 5">
+      <created>1473813963073</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1473813963073</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="234222000" />
+    <option name="totallyTimeSpent" value="234839000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1924" height="1038" extended-state="0" />
