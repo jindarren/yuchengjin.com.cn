@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8476175a-4388-4535-89b8-1c6ba7f7c9df" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-3/mockups.JPG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="startbootstrap-freelancer-1.1.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="1090" column="79" selection-start-line="1090" selection-start-column="79" selection-end-line="1090" selection-end-column="79" />
+            <state relative-caret-position="422">
+              <caret line="1107" column="126" selection-start-line="1107" selection-start-column="126" selection-end-line="1107" selection-end-column="126" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -281,7 +281,7 @@
       <workItem from="1473670204654" duration="41218000" />
       <workItem from="1473933771434" duration="6658000" />
       <workItem from="1474316725086" duration="1197000" />
-      <workItem from="1474503505724" duration="13864000" />
+      <workItem from="1474503505724" duration="14042000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1472388458938</created>
@@ -493,11 +493,18 @@
       <option name="project" value="LOCAL" />
       <updated>1474580793227</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="update for portfolio 3">
+      <created>1474581137601</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1474581137601</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="256794000" />
+    <option name="totallyTimeSpent" value="256972000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1924" height="1038" extended-state="0" />
@@ -990,8 +997,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="1090" column="79" selection-start-line="1090" selection-start-column="79" selection-end-line="1090" selection-end-column="79" />
+        <state relative-caret-position="422">
+          <caret line="1107" column="126" selection-start-line="1107" selection-start-column="126" selection-end-line="1107" selection-end-column="126" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
