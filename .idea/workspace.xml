@@ -2,352 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8476175a-4388-4535-89b8-1c6ba7f7c9df" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/fonts/IOS9-Icons-Regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/fonts/IOS9-Icons-Regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/fonts/Roboto-Bold.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/fonts/Roboto-Bold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/fonts/Roboto-Light.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/fonts/Roboto-Light.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/fonts/Roboto-Regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/fonts/Roboto-Regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/images/0cfb97d5-e768-44cb-9274-5580cdd4cf0a.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/images/1795583f-26a2-40b8-b17e-c5573048b8fc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/images/1c73dfe6-fc88-4931-b601-7a785802a139.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/images/1dac4c3e-22fe-40a2-9a75-745525170d71.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/images/34c73419-11ae-4f7f-8c82-0ccb6a8f22ee.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/images/37174c28-9130-4ea1-94f0-d4a0d87111fe.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/images/3da7a862-1aca-4e79-95d7-1aa34952f9c2.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/images/4b330516-ecda-4b60-8750-455144028e94.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/images/5d8498ed-8e2c-4f3b-be93-271f6a9398fc.GIF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/images/7e4b1cc6-ecd9-48b9-8906-c2bc8bdaadc5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/images/83205a21-16b3-47f0-b1a2-ffe34afcd575.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/images/8eea10a6-ff3a-47b5-b5af-56cc907c9f4d.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/images/9d64d227-cb40-4939-b4b9-520d3a044052.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/images/a7d4e8e5-eb6d-4ddb-928c-63d76c6bc50b.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/images/a8f67641-1ea3-468e-b813-b3403483505f.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/images/aa88c087-8acb-4d0b-a7d8-57a2743f5823.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/images/b4a44b9d-c6df-468a-8f8b-db3b8409ac0f.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/component-jim-navigationtree.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/fonts/OpenSans-Regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/fonts/OpenSans-Regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/fonts/OpenSans-SemiBold.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/fonts/OpenSans-SemiBold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/function-external-jquery-ui.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/function-jim-annotation.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/function-jim-common-ios.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/function-jim-common.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/function-jim-highlight.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/function-jim-layout.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/function-jim-transition.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/images/blank.cur" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/images/cursor2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/images/help.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/images/jimsprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/images/jimsprite@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/images/touch.cur" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/images/ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/images/ui-bg_flat_75_ffffff_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/images/ui-bg_glass_55_fbf9ee_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/images/ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/images/ui-bg_glass_75_dadada_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/images/ui-bg_glass_75_e6e6e6_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/images/ui-bg_glass_95_fef1ec_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/images/ui-icons_222222_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/images/ui-icons_2e83ff_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/images/ui-icons_454545_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/images/ui-icons_888888_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/images/ui-icons_cd0a0a_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/jim-ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/mobile/function-jim-mobile-ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/mobile/function-jim-mobile-ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/mobile/function-jim-mobile.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/mobile/ios/function-jim-ios-common-ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/mobile/ios/function-jim-ios-common.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/mobile/ios/ios8/iphone6/function-jim-iphone6-ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/mobile/ios/ios8/iphone6/function-jim-iphone6-ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/mobile/ios/ios8/iphone6/function-jim-iphone6.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/mobile/ios/ios8/other/iOS-Bold.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/mobile/ios/ios8/other/iOS-Bold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/mobile/ios/ios8/other/iOS-Light.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/mobile/ios/ios8/other/iOS-Light.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/mobile/ios/ios8/other/iOS-Medium.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/mobile/ios/ios8/other/iOS-Medium.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/mobile/ios/ios8/other/iOS-Regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/css/mobile/ios/ios8/other/iOS-Regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/html/chrome.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/html/error.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/html/images/extension.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/html/images/install_button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/html/images/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/html/images/settings.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/html/images/view.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/html/resources/OpenSans-Bold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/html/resources/OpenSans-Light.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/html/resources/OpenSans-Regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/common/arrow-submenu.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/common/browse-disabled.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/common/browse-enabled.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/common/crossimage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/common/date-time.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/common/date.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/common/dropdown-disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/common/dropdown-enabled.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/common/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/common/lastnode.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/common/leafnode.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/common/time.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/common/transparent.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/common/treeline.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/common/arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/common/checkbox-disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/common/checkbox.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/common/checkboxPressed-disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/common/checkboxPressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/common/radiobutton-disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/common/radiobutton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/common/radiobuttonPressed-disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/common/radiobuttonPressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/iphone6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/iphone6@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/landscape/date_topbar_landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/landscape/date_topbar_landscape@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/landscape/dategradient_landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/landscape/dategradient_landscape@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/landscape/email_iphone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/landscape/email_iphone@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/landscape/email_keyspace_pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/landscape/email_keyspace_pressed@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/landscape/keybubble2_iphone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/landscape/keybubble2_iphone@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/landscape/keybubble_iphone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/landscape/keybubble_iphone@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/landscape/keybubble_url_iphone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/landscape/keybubble_url_iphone@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/landscape/keyerase_pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/landscape/keyerase_pressed@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/landscape/keyreturn_pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/landscape/keyreturn_pressed@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/landscape/keyshift_active.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/landscape/keyshift_active@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/landscape/keyshift_pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/landscape/keyshift_pressed@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/landscape/keyspace_pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/landscape/keyspace_pressed@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/landscape/letters_iphone_landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/landscape/letters_iphone_landscape@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/landscape/numbers_iphone_landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/landscape/numbers_iphone_landscape@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/landscape/symbols_iphone_landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/landscape/symbols_iphone_landscape@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/landscape/url_iphone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/landscape/url_iphone@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/date_topbar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/date_topbar@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/dategradient.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/dategradient@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/email_iphone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/email_iphone@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/keybubble-email_iphone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/keybubble-email_iphone@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/keybubble-url_iphone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/keybubble-url_iphone@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/keybubble2_iphone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/keybubble2_iphone@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/keybubble_iphone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/keybubble_iphone@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/keybubble_left_iphone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/keybubble_left_iphone@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/keybubble_right_iphone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/keybubble_right_iphone@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/keyerase_pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/keyerase_pressed@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/keyreturn_pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/keyreturn_pressed@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/keyshift_active.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/keyshift_active@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/keyshift_pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/keyshift_pressed@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/keyspace_email_pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/keyspace_email_pressed@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/keyspace_pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/keyspace_pressed@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/letters_iphone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/letters_iphone@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/numbers_iphone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/numbers_iphone@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/symbols_iphone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/symbols_iphone@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/url_iphone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/mobile/ios/ios8/iphone6/portrait/url_iphone@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/navigationtree/sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/sidepanel/logo-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/sidepanel/logo-white@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/sidepanel/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/sidepanel/logo@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/images/sidepanel/nopicture_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/PIE.htc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/PIE_IE678.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/PIE_IE9.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/component-external-customSelect.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/component-external-datetime.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/component-external-highlight-menu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/component-jim-customSlider.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/component-jim-datagrid.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/component-jim-dropdown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/component-jim-menu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/component-jim-navigationtree.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/component-jim-selectionlist.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/component-jim-tree.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/function-external-autogrowtextarea.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/function-external-doT.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/function-external-event-drag.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/function-external-form.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/function-external-highlight.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/function-external-jquery-browser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/function-external-jquery-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/function-external-jquery-ui.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/function-external-jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/function-jim-annotation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/function-jim-data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/function-jim-event-action.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/function-jim-event-base.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/function-jim-event-data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/function-jim-event-function.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/function-jim-event.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/function-jim-highlight.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/function-jim-history.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/function-jim-layout.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/function-jim-main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/function-jim-rendercomponent.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/function-jim-scenarios.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/function-jim-shapes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/function-jim-transition.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/function-jim-util.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/mobile/function-jim-caret.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/mobile/function-jim-mobile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/mobile/ios/component-jim-ios-boolean.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/mobile/ios/component-jim-ios-dropdown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/mobile/ios/ios8/function-external-overscroll.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/_jim/javascript/mobile/ios/ios8/iphone/function-jim-iphone.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/extensions/justinmind_extension.crx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/fonts-1474505975871.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/lookup-1474505975871.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/scenarios/bb8abf58-f55e-472d-af05-a7d1bb0cc014-1474505975871.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/scenarios/bb8abf58-f55e-472d-af05-a7d1bb0cc014.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/scenarios/function-jim-links1474505975871.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/087d7788-573d-40b5-b2be-10a99ee5e40f-1474505975871-ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/087d7788-573d-40b5-b2be-10a99ee5e40f-1474505975871-ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/087d7788-573d-40b5-b2be-10a99ee5e40f-1474505975871.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/087d7788-573d-40b5-b2be-10a99ee5e40f-1474505975871.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/1048bebf-6969-452e-bfe1-a6327778e388-1474505975871-ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/1048bebf-6969-452e-bfe1-a6327778e388-1474505975871-ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/1048bebf-6969-452e-bfe1-a6327778e388-1474505975871.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/1048bebf-6969-452e-bfe1-a6327778e388-1474505975871.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/19c903e5-4dbb-4c7c-9301-ec2c865a5fc8-1474505975871-ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/19c903e5-4dbb-4c7c-9301-ec2c865a5fc8-1474505975871-ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/19c903e5-4dbb-4c7c-9301-ec2c865a5fc8-1474505975871.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/19c903e5-4dbb-4c7c-9301-ec2c865a5fc8-1474505975871.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/1cc9cbc5-b36e-46b1-92c0-da134919838e-1474505975871-ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/1cc9cbc5-b36e-46b1-92c0-da134919838e-1474505975871-ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/1cc9cbc5-b36e-46b1-92c0-da134919838e-1474505975871.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/1cc9cbc5-b36e-46b1-92c0-da134919838e-1474505975871.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/2578a5c5-666a-4ac3-b713-bbac26c6736b-1474505975871-ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/2578a5c5-666a-4ac3-b713-bbac26c6736b-1474505975871-ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/2578a5c5-666a-4ac3-b713-bbac26c6736b-1474505975871.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/2578a5c5-666a-4ac3-b713-bbac26c6736b-1474505975871.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/3b74d585-91c2-448a-9745-609eff491ae2-1474505975871-ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/3b74d585-91c2-448a-9745-609eff491ae2-1474505975871-ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/3b74d585-91c2-448a-9745-609eff491ae2-1474505975871.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/3b74d585-91c2-448a-9745-609eff491ae2-1474505975871.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/4d9db0eb-448f-4361-a39d-09ccbb5b7451-1474505975871-ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/4d9db0eb-448f-4361-a39d-09ccbb5b7451-1474505975871-ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/4d9db0eb-448f-4361-a39d-09ccbb5b7451-1474505975871.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/4d9db0eb-448f-4361-a39d-09ccbb5b7451-1474505975871.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/5ac2a56d-4676-44c6-83d0-3d5d5e2df494-1474505975871-ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/5ac2a56d-4676-44c6-83d0-3d5d5e2df494-1474505975871-ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/5ac2a56d-4676-44c6-83d0-3d5d5e2df494-1474505975871.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/5ac2a56d-4676-44c6-83d0-3d5d5e2df494-1474505975871.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/6dd298dd-ddbd-4fa7-b396-02e472be0087-1474505975871-ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/6dd298dd-ddbd-4fa7-b396-02e472be0087-1474505975871-ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/6dd298dd-ddbd-4fa7-b396-02e472be0087-1474505975871.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/6dd298dd-ddbd-4fa7-b396-02e472be0087-1474505975871.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/81e6dd9c-4208-4553-831d-8467a11a0cce-1474505975871-ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/81e6dd9c-4208-4553-831d-8467a11a0cce-1474505975871-ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/81e6dd9c-4208-4553-831d-8467a11a0cce-1474505975871.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/81e6dd9c-4208-4553-831d-8467a11a0cce-1474505975871.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/85e42bed-034e-4731-95a1-6d30e41a4d51-1474505975871-ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/85e42bed-034e-4731-95a1-6d30e41a4d51-1474505975871-ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/85e42bed-034e-4731-95a1-6d30e41a4d51-1474505975871.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/85e42bed-034e-4731-95a1-6d30e41a4d51-1474505975871.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/908a23c2-ab88-4fea-b327-4c41ebf74a66-1474505975871-ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/908a23c2-ab88-4fea-b327-4c41ebf74a66-1474505975871-ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/908a23c2-ab88-4fea-b327-4c41ebf74a66-1474505975871.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/908a23c2-ab88-4fea-b327-4c41ebf74a66-1474505975871.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/94553073-d370-47fe-a12d-c89202fed817-1474505975871-ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/94553073-d370-47fe-a12d-c89202fed817-1474505975871-ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/94553073-d370-47fe-a12d-c89202fed817-1474505975871.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/94553073-d370-47fe-a12d-c89202fed817-1474505975871.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/a381f956-85e2-487f-92cc-b872bfa96f84-1474505975871-ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/a381f956-85e2-487f-92cc-b872bfa96f84-1474505975871-ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/a381f956-85e2-487f-92cc-b872bfa96f84-1474505975871.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/a381f956-85e2-487f-92cc-b872bfa96f84-1474505975871.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/ade49ca6-58fa-4f7e-a98d-9295322b93d8-1474505975871-ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/ade49ca6-58fa-4f7e-a98d-9295322b93d8-1474505975871-ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/ade49ca6-58fa-4f7e-a98d-9295322b93d8-1474505975871.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/ade49ca6-58fa-4f7e-a98d-9295322b93d8-1474505975871.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/b4ccecd4-2f06-4240-8f18-130c3bdc3e74-1474505975871-ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/b4ccecd4-2f06-4240-8f18-130c3bdc3e74-1474505975871-ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/b4ccecd4-2f06-4240-8f18-130c3bdc3e74-1474505975871.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/b4ccecd4-2f06-4240-8f18-130c3bdc3e74-1474505975871.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1474505975871-ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1474505975871-ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1474505975871.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1474505975871.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/d9e9b72e-056b-4e0e-abc9-99151c0a4cac-1474505975871-ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/d9e9b72e-056b-4e0e-abc9-99151c0a4cac-1474505975871-ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/d9e9b72e-056b-4e0e-abc9-99151c0a4cac-1474505975871.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/d9e9b72e-056b-4e0e-abc9-99151c0a4cac-1474505975871.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/eb184f3c-0935-4b1f-8b18-e3601590aa11-1474505975871-ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/eb184f3c-0935-4b1f-8b18-e3601590aa11-1474505975871-ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/eb184f3c-0935-4b1f-8b18-e3601590aa11-1474505975871.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/eb184f3c-0935-4b1f-8b18-e3601590aa11-1474505975871.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/f8a8c2e6-0439-490f-9e69-4c6830258acd-1474505975871-ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/f8a8c2e6-0439-490f-9e69-4c6830258acd-1474505975871-ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/f8a8c2e6-0439-490f-9e69-4c6830258acd-1474505975871.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/screens/f8a8c2e6-0439-490f-9e69-4c6830258acd-1474505975871.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/scroll-1474505975871.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1474505975871-ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1474505975871-ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1474505975871.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/review/includes/include-1474505975871-ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/review/includes/include-1474505975871-ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/review/includes/include-1474505975871.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/review/includes/include-1474505975871.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/review/scenarios/bb8abf58-f55e-472d-af05-a7d1bb0cc014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/review/screens/087d7788-573d-40b5-b2be-10a99ee5e40f.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/review/screens/1048bebf-6969-452e-bfe1-a6327778e388.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/review/screens/19c903e5-4dbb-4c7c-9301-ec2c865a5fc8.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/review/screens/1cc9cbc5-b36e-46b1-92c0-da134919838e.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/review/screens/2578a5c5-666a-4ac3-b713-bbac26c6736b.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/review/screens/3b74d585-91c2-448a-9745-609eff491ae2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/review/screens/4d9db0eb-448f-4361-a39d-09ccbb5b7451.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/review/screens/5ac2a56d-4676-44c6-83d0-3d5d5e2df494.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/review/screens/6dd298dd-ddbd-4fa7-b396-02e472be0087.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/review/screens/81e6dd9c-4208-4553-831d-8467a11a0cce.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/review/screens/85e42bed-034e-4731-95a1-6d30e41a4d51.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/review/screens/908a23c2-ab88-4fea-b327-4c41ebf74a66.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/review/screens/94553073-d370-47fe-a12d-c89202fed817.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/review/screens/a381f956-85e2-487f-92cc-b872bfa96f84.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/review/screens/ade49ca6-58fa-4f7e-a98d-9295322b93d8.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/review/screens/b4ccecd4-2f06-4240-8f18-130c3bdc3e74.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/review/screens/d12245cc-1680-458d-89dd-4f0d7fb22724.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/review/screens/d9e9b72e-056b-4e0e-abc9-99151c0a4cac.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/review/screens/eb184f3c-0935-4b1f-8b18-e3601590aa11.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/review/screens/f8a8c2e6-0439-490f-9e69-4c6830258acd.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prototype/review/templates/f39803f7-df02-4169-93eb-7547fb8c961a.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="startbootstrap-freelancer-1.1.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -370,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="800">
-              <caret line="1106" column="63" selection-start-line="1106" selection-start-column="63" selection-end-line="1106" selection-end-column="63" />
+            <state relative-caret-position="475">
+              <caret line="1093" column="0" selection-start-line="1093" selection-start-column="0" selection-end-line="1093" selection-end-column="0" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -510,7 +166,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Prototype1" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/prototype" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
@@ -625,7 +281,7 @@
       <workItem from="1473670204654" duration="41218000" />
       <workItem from="1473933771434" duration="6658000" />
       <workItem from="1474316725086" duration="1197000" />
-      <workItem from="1474503505724" duration="10837000" />
+      <workItem from="1474503505724" duration="13410000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1472388458938</created>
@@ -809,11 +465,25 @@
       <option name="project" value="LOCAL" />
       <updated>1474575007621</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="update for portfolio 3">
+      <created>1474576920947</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1474576920947</updated>
+    </task>
+    <task id="LOCAL-00028" summary="update for portfolio 3">
+      <created>1474579421863</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1474579421863</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="253767000" />
+    <option name="totallyTimeSpent" value="256340000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1924" height="1038" extended-state="0" />
@@ -821,7 +491,7 @@
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13116474" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13116474" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20643729" sideWeight="0.5330535" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20643729" sideWeight="0.46694648" order="7" side_tool="false" content_ui="tabs" />
@@ -1306,8 +976,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="1106" column="63" selection-start-line="1106" selection-start-column="63" selection-end-line="1106" selection-end-column="63" />
+        <state relative-caret-position="475">
+          <caret line="1093" column="0" selection-start-line="1093" selection-start-column="0" selection-end-line="1093" selection-end-column="0" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
