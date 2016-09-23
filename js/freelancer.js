@@ -4,8 +4,8 @@ $(document).ready(function() {
         $('body').addClass('loaded');
         $('h1').css('color','#222222');
     }, 3000);
-    $('body').addClass('loaded');
-    $('h1').css('color','#222222');
+    // $('body').addClass('loaded');
+    // $('h1').css('color','#222222');
 });
 
 //in order to support the hover effects by touching action 
