@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8476175a-4388-4535-89b8-1c6ba7f7c9df" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/attachment/cv.ai" afterPath="$PROJECT_DIR$/attachment/cv.ai" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/attachment/cv.pdf" afterPath="$PROJECT_DIR$/attachment/cv.pdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/attachment/cv_zh.ai" afterPath="$PROJECT_DIR$/attachment/cv_zh.ai" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/attachment/cv_zh.pdf" afterPath="$PROJECT_DIR$/attachment/cv_zh.pdf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="startbootstrap-freelancer-1.1.0.iws" />
@@ -281,7 +285,7 @@
       <workItem from="1473933771434" duration="6658000" />
       <workItem from="1474316725086" duration="1197000" />
       <workItem from="1474503505724" duration="17032000" />
-      <workItem from="1474619257923" duration="467000" />
+      <workItem from="1474619257923" duration="650000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1472388458938</created>
@@ -542,11 +546,18 @@
       <option name="project" value="LOCAL" />
       <updated>1474584721624</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="update for cv">
+      <created>1474619738193</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1474619738193</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="260429000" />
+    <option name="totallyTimeSpent" value="260612000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1924" height="1038" extended-state="0" />
@@ -616,7 +627,8 @@
     <MESSAGE value="update2" />
     <MESSAGE value="update for portfolio 4 and portfolio 5" />
     <MESSAGE value="update for portfolio 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="update for portfolio 3" />
+    <MESSAGE value="update for cv" />
+    <option name="LAST_COMMIT_MESSAGE" value="update for cv" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
