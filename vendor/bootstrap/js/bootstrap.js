@@ -703,7 +703,7 @@ if (typeof jQuery === 'undefined') {
             var $carousel = $(this);
             ;
             Plugin.call($carousel, $carousel.data())
-        })
+    })
     })
 
 }(jQuery);
@@ -2695,7 +2695,7 @@ if (typeof jQuery === 'undefined') {
             var $spy = $(this);
             ;
             Plugin.call($spy, $spy.data())
-        })
+    })
     })
 
 }(jQuery);
