@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8476175a-4388-4535-89b8-1c6ba7f7c9df" name="Default" comment="update for vendor&#10;&#10;">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="startbootstrap-freelancer-1.1.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -309,14 +308,7 @@
       <workItem from="1479347746390" duration="597000" />
       <workItem from="1479357219544" duration="350000" />
       <workItem from="1479430442201" duration="926000" />
-      <workItem from="1479431615043" duration="529000" />
-    </task>
-    <task id="LOCAL-00015" summary="2nd commit">
-      <created>1473548216912</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1473548216912</updated>
+      <workItem from="1479431615043" duration="586000" />
     </task>
     <task id="LOCAL-00016" summary="portfolio 2">
       <created>1473647785255</created>
@@ -654,11 +646,18 @@
       <option name="project" value="LOCAL" />
       <updated>1479431872820</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="update for vendor&#10;&#10;">
+      <created>1479432149856</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1479432149857</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="273480000" />
+    <option name="totallyTimeSpent" value="273537000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1923" height="1038" extended-state="0" />
