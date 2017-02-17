@@ -4,8 +4,6 @@ $(document).ready(function() {
         $('body').addClass('loaded');
         $('h1').css('color','#222222');
     }, 3000);
-    // $('body').addClass('loaded');
-    // $('h1').css('color','#222222');
 });
 
 //in order to support the hover effects by touching action 
@@ -39,7 +37,7 @@ document.body.addEventListener('touchstart', function () { });
         offset: {
             top: 100
         }
-    })
+    });
 
     // Floating label headings for the contact form
     $(function() {
@@ -56,7 +54,9 @@ document.body.addEventListener('touchstart', function () { });
 
 
 //auto fit for youku iframe
-window.onload = window.onresize = function () { resizeIframe();}
+window.onload = window.onresize = function () {
+    resizeIframe();
+};
 
 var resizeIframe=function(){
     var bodyw=document.body.clientWidth*0.65;
@@ -64,4 +64,13 @@ var resizeIframe=function(){
         if(document.getElementsByTagName("iframe")[ilength])
             document.getElementsByTagName("iframe")[ilength].height = bodyw*9/16;
     }
-}
+};
+
+
+//fix the close icon on top while scrolling
+$('.portfolio-modal').each(function () {
+    $(this).scroll(function () {
+        $(this).find('.close-modal').css('top', $(this).scrollTop());
+        console.log($(this).scrollTop())
+    })
+});
