@@ -526,9 +526,10 @@ fieldset[disabled] .btn-success.active {
     width: 75px;
     height: 75px;
     background-color: transparent;
-    top: 25px;
+    top: 50px;
     right: 25px;
     cursor: pointer;
+    z-index: 999;
 }
 .portfolio-modal .close-modal:hover {
     opacity: 0.3;

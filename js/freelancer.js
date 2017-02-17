@@ -69,7 +69,7 @@ var resizeIframe=function(){
 //fix the position of the close icon to the top while scrolling
 $('.portfolio-modal').each(function () {
     $(this).scroll(function () {
-        $(this).find('.close-modal').css('top', $(this).scrollTop());
+        $(this).find('.close-modal').css('top', $(this).scrollTop() + 30);
         console.log($(this).scrollTop())
     })
 });
