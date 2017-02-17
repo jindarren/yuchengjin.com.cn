@@ -531,6 +531,12 @@ fieldset[disabled] .btn-success.active {
     cursor: pointer;
     z-index: 999;
 }
+
+.close-modal:hover {
+    transform: scale(2);
+    transition: 0.2s linear;
+}
+
 .portfolio-modal .close-modal:hover {
     opacity: 0.3;
 }
