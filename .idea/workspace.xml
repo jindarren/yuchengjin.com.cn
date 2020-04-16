@@ -2,68 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8476175a-4388-4535-89b8-1c6ba7f7c9df" name="Default" comment="update for scrolling&#10;&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/wall.png" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/wall.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-1.png" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-1/11stm.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-1/11stm.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-1/avi-conf.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-1/avi-conf.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-1/avi-paper.PNG" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-1/avi-paper.PNG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-1/facebook.png" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-1/facebook.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-1/paris-1.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-1/paris-1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-1/paris1-design1.png" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-1/paris1-design1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-1/paris1-design2.png" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-1/paris1-design2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-1/paris1-design3.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-1/paris1-design3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-2.png" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-2/amy.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-2/amy.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-2/app_ad.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-2/app_ad.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-2/ar-ui.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-2/ar-ui.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-2/camera-search.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-2/camera-search.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-2/eics-conf.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-2/eics-conf.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-2/eics-paper.JPG" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-2/eics-paper.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-2/paris-2.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-2/paris-2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-2/senario.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-2/senario.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-2/tom.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-2/tom.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-2/user-study.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-2/user-study.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-3.png" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-3/flow.png" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-3/flow.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-3/front.png" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-3/front.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-3/its-pub.JPG" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-3/its-pub.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-3/mockups.JPG" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-3/mockups.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-3/model-pub.JPG" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-3/model-pub.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-3/smart.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-3/smart.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-3/visual.png" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-3/visual.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-4.png" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-4/ami-pub.JPG" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/ami-pub.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-4/ami-wp-pub.JPG" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/ami-wp-pub.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-4/ar-warehouse.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/ar-warehouse.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-4/block.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/block.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-4/design-flow.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/design-flow.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-4/eva-result.JPG" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/eva-result.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-4/expert.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/expert.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-4/fragile.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/fragile.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-4/noisy.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/noisy.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-4/order-picking.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/order-picking.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-4/scenario.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/scenario.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-4/timeout.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/timeout.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-4/ui-1.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/ui-1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-4/ui-2.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/ui-2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-4/ui-3.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/ui-3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-4/ui-4.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/ui-4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-4/warehouse.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-4/warehouse.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-5/error.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-5/error.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-5/gesture-new.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-5/gesture-new.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-5/gesture.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-5/gesture.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-5/gestures.JPG" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-5/gestures.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-5/marker.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-5/marker.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-5/shadow.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-5/shadow.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-5/sus.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-5/sus.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-5/table-system.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-5/table-system.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-5/tangible-new.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-5/tangible-new.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-5/tangible.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-5/tangible.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-5/time.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-5/time.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-5/touch-shadow.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-5/touch-shadow.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-5/tradi-touch-new.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-5/tradi-touch-new.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/portfolio-5/tradi-touch.jpg" afterPath="$PROJECT_DIR$/img/portfolio/portfolio-5/tradi-touch.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/email.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -88,8 +27,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="98" column="61" lean-forward="false" selection-start-line="98" selection-start-column="61" selection-end-line="98" selection-end-column="61" />
+            <state relative-caret-position="345">
+              <caret line="292" column="10" lean-forward="true" selection-start-line="292" selection-start-column="10" selection-end-line="292" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -149,6 +88,7 @@
     <findStrings>
       <find>close</find>
       <find>close-moda</find>
+      <find>185</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -210,6 +150,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="jindarren.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jindarren.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jindarren.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -379,14 +333,7 @@
       <workItem from="1530696850853" duration="652000" />
       <workItem from="1569399009824" duration="57000" />
       <workItem from="1586945870121" duration="681000" />
-      <workItem from="1587011008279" duration="113000" />
-    </task>
-    <task id="LOCAL-00039" summary="update for cv">
-      <created>1474619916615</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1474619916615</updated>
+      <workItem from="1587011008279" duration="884000" />
     </task>
     <task id="LOCAL-00040" summary="update for cv">
       <created>1474620785547</created>
@@ -724,11 +671,18 @@
       <option name="project" value="LOCAL" />
       <updated>1586945974562</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="update for scrolling&#10;&#10;">
+      <created>1587011130300</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1587011130301</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="285919000" />
+    <option name="totallyTimeSpent" value="286690000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -737,7 +691,7 @@
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26752505" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32866243" sideWeight="0.49499285" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32866243" sideWeight="0.49499285" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32866243" sideWeight="0.50500715" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20254777" sideWeight="0.42775393" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1196,8 +1150,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="98" column="61" lean-forward="false" selection-start-line="98" selection-start-column="61" selection-end-line="98" selection-end-column="61" />
+        <state relative-caret-position="345">
+          <caret line="292" column="10" lean-forward="true" selection-start-line="292" selection-start-column="10" selection-end-line="292" selection-end-column="10" />
           <folding />
         </state>
       </provider>
